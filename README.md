@@ -2,15 +2,8 @@
 
 ## Descripción
 
-![](./screenshot.png)
+Interfaz web estática de noticias tecnológicas construida con HTML, CSS y JavaScript. Incluye recursos visuales y una composición responsive orientada a presentar artículos de actualidad.
 
-# Recomendations
-* Minimize the size of Images
-* put a favicon
-
-# Resources
-* [Pexels.com](https://www.pexels.com/)
-* [HeroPatterns.com](https://www.heropatterns.com/). Death Start is choosen in this project
 
 ## Diagrama
 
